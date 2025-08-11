@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tài khoản</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <h1>Thông tin tài khoản</h1>
+</body>
+</html>
